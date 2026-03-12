@@ -40,3 +40,4 @@ curl -X POST http://localhost:8080/convert \
   -d '{"kilometers":10}'
 
 
+# CI pipeline demo update
