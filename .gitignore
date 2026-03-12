@@ -1,0 +1,8 @@
+# binaries
+*.exe
+*.out
+*.test
+unit-converter-app
+
+# OS files
+.DS_Store
